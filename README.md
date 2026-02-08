@@ -1,7 +1,5 @@
 # 📊 Course Dropout Risk Prediction System
 
-=======================================
-
 A simple, local, and academic-focused machine learning project that predicts **student course dropout risk** in a university environment based on academic and engagement-related factors.
 
 The goal of this project is **not** to build a production-grade predictive system, but to demonstrate a **clear, reproducible, end-to-end machine learning pipeline** suitable for coursework, academic evaluations, and ML pipeline demonstrations.
