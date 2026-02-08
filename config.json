@@ -1,0 +1,21 @@
+{
+    "database": {
+      "name": "students.db"
+    },
+  
+    "data_generation": {
+      "num_students": 500,
+      "random_seed": 42
+    },
+  
+    "model": {
+      "type": "logistic_regression",
+      "test_size": 0.2,
+      "random_state": 42
+    },
+  
+    "model_storage": {
+      "model_path": "latest_model.pkl"
+    }
+  }
+  
